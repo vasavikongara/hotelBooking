@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NzpKbgakjtBQx8bnud0u+1wu/Zktv2oHfDhDUfyHBl5raFtQIxxD6fSd/YzZDRp0pNA/fLJbCun2axFSTeIfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enk820k\\source\\repos\\HotelBooking\\HotelBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enk820k\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\enk820k\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\enk820k\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\enk820k\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\enk820k\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
